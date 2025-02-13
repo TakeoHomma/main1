@@ -1,0 +1,10 @@
+C:\Users\miha2\Desktop\csTimer\bin\Debug\csTimer.exe.config
+C:\Users\miha2\Desktop\csTimer\bin\Debug\csTimer.exe
+C:\Users\miha2\Desktop\csTimer\bin\Debug\csTimer.pdb
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.csproj.AssemblyReference.cache
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.Properties.Resources.resources
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.csproj.GenerateResource.cache
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.csproj.CoreCompileInputs.cache
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.exe
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.pdb
+C:\Users\miha2\Desktop\csTimer\obj\Debug\csTimer.csTimer.resources
